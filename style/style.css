@@ -13,16 +13,16 @@
   span{
     padding-top: 20px;
     display: inline-block;
-    line-height: 28px;
-      
-    
+    line-height: 28px;  
   }
   img{
     padding-top: 109px;
     padding-bottom: 20px;
   } 
-    
-  }
+  h1{
+    color: blue;
+  }  
+ 
   #nav{
     float: right;
     list-style: none;
